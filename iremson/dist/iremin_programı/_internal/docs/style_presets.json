@@ -1,0 +1,25 @@
+{
+    "aa": {
+        "program": {
+            "background": "#00aa00",
+            "text": "#ffff00",
+            "accent": "#CC3300",
+            "font_family": "Segoe UI",
+            "font_size": 12,
+            "table_header": "#55007f",
+            "table_alternate": "#F5F5F5",
+            "table_hover": "#E6E6E6",
+            "tab_background": "#E6E6E6",
+            "tab_selected": "#CC3300",
+            "tab_hover": "#CCCCCC"
+        },
+        "button": {
+            "background": "#CC3300",
+            "hover": "#E63900",
+            "text": "#FFFFFF",
+            "padding": 8,
+            "radius": 4,
+            "icon_size": 20
+        }
+    }
+}
